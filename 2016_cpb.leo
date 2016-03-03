@@ -10,9 +10,11 @@
 <find_panel_settings/>
 <vnodes>
 <v t="leo.20160303092455.2"><vh>NewHeadline</vh></v>
+<v t="leo.20160303101731.1"><vh>ethercalc</vh></v>
 <v t="leo.20160303092534.1"><vh>@edit index.html</vh></v>
 </vnodes>
 <tnodes>
 <t tx="leo.20160303092455.2">g.es("hello")</t>
+<t tx="leo.20160303101731.1">http://ethercalc-40323251.rhcloud.com/ltieici03idh</t>
 </tnodes>
 </leo_file>
